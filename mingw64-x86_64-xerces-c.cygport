@@ -2,8 +2,8 @@ CROSS_HOST="x86_64-w64-mingw32"
 inherit cross
 
 NAME="mingw64-x86_64-xerces-c"
-VERSION=3.1.2
-RELEASE=2
+VERSION=3.1.3
+RELEASE=1
 CATEGORY="Devel"
 SUMMARY="Xerces-C++ XML parser library for Win64 toolchain"
 DESCRIPTION="Xerces-C++ is a validating XML parser written in a portable
